@@ -20,7 +20,6 @@ namespace Proyecto_Mundo_Creativo.Controllers
         {
             return View();
         }
-
         public IActionResult Formulario()
         {
             return View();

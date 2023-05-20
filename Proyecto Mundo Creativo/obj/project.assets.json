@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LENOVO\\Downloads\\Proyecto Mundo Creativo\\Proyecto Mundo Creativo\\Proyecto Mundo Creativo.csproj",
+      "projectUniqueName": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\Mundo\\Proyecto Mundo Creativo\\Proyecto Mundo Creativo.csproj",
       "projectName": "Proyecto Mundo Creativo",
-      "projectPath": "C:\\Users\\LENOVO\\Downloads\\Proyecto Mundo Creativo\\Proyecto Mundo Creativo\\Proyecto Mundo Creativo.csproj",
+      "projectPath": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\Mundo\\Proyecto Mundo Creativo\\Proyecto Mundo Creativo.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LENOVO\\Downloads\\Proyecto Mundo Creativo\\Proyecto Mundo Creativo\\obj\\",
+      "outputPath": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\Mundo\\Proyecto Mundo Creativo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
