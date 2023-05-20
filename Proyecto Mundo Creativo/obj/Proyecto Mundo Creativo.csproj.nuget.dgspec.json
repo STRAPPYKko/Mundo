@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\Mundo\\Proyecto Mundo Creativo\\Proyecto Mundo Creativo.csproj": {}
+    "C:\\Users\\brend\\Documents\\GitHub\\Mundo\\Proyecto Mundo Creativo\\Proyecto Mundo Creativo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\Mundo\\Proyecto Mundo Creativo\\Proyecto Mundo Creativo.csproj": {
+    "C:\\Users\\brend\\Documents\\GitHub\\Mundo\\Proyecto Mundo Creativo\\Proyecto Mundo Creativo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\Mundo\\Proyecto Mundo Creativo\\Proyecto Mundo Creativo.csproj",
+        "projectUniqueName": "C:\\Users\\brend\\Documents\\GitHub\\Mundo\\Proyecto Mundo Creativo\\Proyecto Mundo Creativo.csproj",
         "projectName": "Proyecto Mundo Creativo",
-        "projectPath": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\Mundo\\Proyecto Mundo Creativo\\Proyecto Mundo Creativo.csproj",
-        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\Mundo\\Proyecto Mundo Creativo\\obj\\",
+        "projectPath": "C:\\Users\\brend\\Documents\\GitHub\\Mundo\\Proyecto Mundo Creativo\\Proyecto Mundo Creativo.csproj",
+        "packagesPath": "C:\\Users\\brend\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\brend\\Documents\\GitHub\\Mundo\\Proyecto Mundo Creativo\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\brend\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,7 +49,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -57,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
