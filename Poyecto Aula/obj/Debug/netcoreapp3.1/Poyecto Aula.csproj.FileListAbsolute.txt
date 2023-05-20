@@ -1,0 +1,36 @@
+C:\Users\LENOVO\Downloads\Poyecto Aula\Poyecto Aula\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\LENOVO\Downloads\Poyecto Aula\Poyecto Aula\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\LENOVO\Downloads\Poyecto Aula\Poyecto Aula\bin\Debug\netcoreapp3.1\Poyecto Aula.exe
+C:\Users\LENOVO\Downloads\Poyecto Aula\Poyecto Aula\bin\Debug\netcoreapp3.1\Poyecto Aula.deps.json
+C:\Users\LENOVO\Downloads\Poyecto Aula\Poyecto Aula\bin\Debug\netcoreapp3.1\Poyecto Aula.runtimeconfig.json
+C:\Users\LENOVO\Downloads\Poyecto Aula\Poyecto Aula\bin\Debug\netcoreapp3.1\Poyecto Aula.runtimeconfig.dev.json
+C:\Users\LENOVO\Downloads\Poyecto Aula\Poyecto Aula\bin\Debug\netcoreapp3.1\Poyecto Aula.dll
+C:\Users\LENOVO\Downloads\Poyecto Aula\Poyecto Aula\bin\Debug\netcoreapp3.1\Poyecto Aula.pdb
+C:\Users\LENOVO\Downloads\Poyecto Aula\Poyecto Aula\bin\Debug\netcoreapp3.1\Poyecto Aula.Views.dll
+C:\Users\LENOVO\Downloads\Poyecto Aula\Poyecto Aula\bin\Debug\netcoreapp3.1\Poyecto Aula.Views.pdb
+C:\Users\LENOVO\Downloads\Poyecto Aula\Poyecto Aula\obj\Debug\netcoreapp3.1\Poyecto Aula.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\Poyecto Aula\Poyecto Aula\obj\Debug\netcoreapp3.1\Poyecto Aula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\Poyecto Aula\Poyecto Aula\obj\Debug\netcoreapp3.1\Poyecto Aula.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\Poyecto Aula\Poyecto Aula\obj\Debug\netcoreapp3.1\Poyecto Aula.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\Poyecto Aula\Poyecto Aula\obj\Debug\netcoreapp3.1\Poyecto Aula.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\Poyecto Aula\Poyecto Aula\obj\Debug\netcoreapp3.1\Poyecto Aula.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO\Downloads\Poyecto Aula\Poyecto Aula\obj\Debug\netcoreapp3.1\Poyecto Aula.RazorAssemblyInfo.cache
+C:\Users\LENOVO\Downloads\Poyecto Aula\Poyecto Aula\obj\Debug\netcoreapp3.1\Poyecto Aula.RazorAssemblyInfo.cs
+C:\Users\LENOVO\Downloads\Poyecto Aula\Poyecto Aula\obj\Debug\netcoreapp3.1\staticwebassets\Poyecto Aula.StaticWebAssets.Manifest.cache
+C:\Users\LENOVO\Downloads\Poyecto Aula\Poyecto Aula\obj\Debug\netcoreapp3.1\Poyecto Aula.TagHelpers.input.cache
+C:\Users\LENOVO\Downloads\Poyecto Aula\Poyecto Aula\obj\Debug\netcoreapp3.1\Poyecto Aula.TagHelpers.output.cache
+C:\Users\LENOVO\Downloads\Poyecto Aula\Poyecto Aula\obj\Debug\netcoreapp3.1\Poyecto Aula.RazorCoreGenerate.cache
+C:\Users\LENOVO\Downloads\Poyecto Aula\Poyecto Aula\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\LENOVO\Downloads\Poyecto Aula\Poyecto Aula\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\LENOVO\Downloads\Poyecto Aula\Poyecto Aula\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\LENOVO\Downloads\Poyecto Aula\Poyecto Aula\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\LENOVO\Downloads\Poyecto Aula\Poyecto Aula\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\LENOVO\Downloads\Poyecto Aula\Poyecto Aula\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\LENOVO\Downloads\Poyecto Aula\Poyecto Aula\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\LENOVO\Downloads\Poyecto Aula\Poyecto Aula\obj\Debug\netcoreapp3.1\Poyecto Aula.RazorTargetAssemblyInfo.cache
+C:\Users\LENOVO\Downloads\Poyecto Aula\Poyecto Aula\obj\Debug\netcoreapp3.1\Poyecto Aula.RazorTargetAssemblyInfo.cs
+C:\Users\LENOVO\Downloads\Poyecto Aula\Poyecto Aula\obj\Debug\netcoreapp3.1\Poyecto Aula.Views.pdb
+C:\Users\LENOVO\Downloads\Poyecto Aula\Poyecto Aula\obj\Debug\netcoreapp3.1\Poyecto Aula.dll
+C:\Users\LENOVO\Downloads\Poyecto Aula\Poyecto Aula\obj\Debug\netcoreapp3.1\Poyecto Aula.pdb
+C:\Users\LENOVO\Downloads\Poyecto Aula\Poyecto Aula\obj\Debug\netcoreapp3.1\Poyecto Aula.genruntimeconfig.cache
+C:\Users\LENOVO\Downloads\Poyecto Aula\Poyecto Aula\obj\Debug\netcoreapp3.1\Poyecto Aula.csproj.CopyComplete

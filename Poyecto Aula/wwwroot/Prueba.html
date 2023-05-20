@@ -1,0 +1,66 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <link href="css/PruebaStyleSheet.css" rel="stylesheet" />
+    <script>
+        // JavaScript para mostrar subcategorías al hacer clic en una categoría
+        document.addEventListener("DOMContentLoaded", function (event) {
+            var categories = document.querySelectorAll(".categories li");
+            var subcategories = document.querySelectorAll(".subcategories");
+
+            categories.forEach(function (category, index) {
+                category.addEventListener("click", function () {
+                    subcategories.forEach(function (subcategory) {
+                        subcategory.style.display = "none";
+                    });
+
+                    subcategories[index].style.display = "block";
+                });
+            });
+        });
+    </script>
+</head>
+<body>
+    <div class="container">
+        <div class="categories">
+            <h2>Categorías</h2>
+            <ul>
+                <li>Categoría 1</li>
+                <li>Categoría 2</li>
+                <li>Categoría 3</li>
+                <li>Categoría 4</li>
+            </ul>
+        </div>
+
+        <div class="subcategories">
+            <h2>Subcategorías</h2>
+            <ul>
+                <li>Subcategoría 1</li>
+                <li>Subcategoría 2</li>
+                <li>Subcategoría 3</li>
+                <li>Subcategoría 4</li>
+            </ul>
+        </div>
+
+        <div class="main-image">
+            <img src="css/Mundo limpio.jpg" alt="Imagen Principal">
+        </div>
+
+        <div class="side-images">
+            <div class="image">
+                <img src="imagen1.jpg" alt="Imagen 1">
+            </div>
+            <div class="image">
+                <img src="imagen2.jpg" alt="Imagen 2">
+            </div>
+            <div class="image">
+                <img src="imagen3.jpg" alt="Imagen 3">
+            </div>
+            <div class="image">
+                <img src="imagen4.jpg" alt="Imagen 4">
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+
