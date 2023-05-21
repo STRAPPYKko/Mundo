@@ -16,5 +16,21 @@ namespace Proyecto_Mundo_Creativo.Controllers
         {
             return View();
         }
+        public IActionResult AgregarP()
+        {
+            return View();
+        }
+        public IActionResult ModificarU()
+        {
+            return View();
+        }
+        public IActionResult TablaVP()
+        {
+            return View();
+        }
+        public IActionResult TablaVU()
+        {
+            return View();
+        }
     }
 }
